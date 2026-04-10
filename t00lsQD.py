@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # 配置信息
-COOKIE = 'UTH_visitedfid=39; smile=6D1; UTH_cookietime=2592000; UTH_auth=7946%2Fw7l%2FlFg0r1H4PIcAp6EY2w%2Bob1dwfgJf4bPdk2OgTWYFXGfsYilT4WNPvTvnYrJ15yFAkAEP9MqzIw2mAJW%2FJZaUNpaEFn%2Ffw; UTH_sid=6uEAqd'
+COOKIE = ''
 PUSHPLUS_TOKEN = ''  # 如果需要推送，填写你的 token
 
 def calculate_next_execution_time():
