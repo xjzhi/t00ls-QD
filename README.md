@@ -64,6 +64,12 @@ COOKIE = 'your_cookie_here'  # 从浏览器获取的T00ls Cookie
 5. 找到任意请求，复制 Request Headers 中的 Cookie 字段
 ```
 
+## 图形化调试工具 
+运行UI调试脚本 (推荐)
+```python
+# python t00ls_gui.py
+```
+![UI脚本](https://github.com/user-attachments/assets/251b88a4-78d1-4fa3-b75c-0febc870b4cb)
 
 
 ## 运行脚本  
